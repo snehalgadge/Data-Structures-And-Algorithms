@@ -1,4 +1,4 @@
-# Data-Structures-And-Algorithms
+<h1 style:{text-align='center'}>Data-Structures-And-Algorithms</h1>
 
 <h2><a href='https://github.com/snehalgadge/Data-Structures-And-Algorithms/tree/main/Array'</a>Array</h2> 
 <h3><a href='https://github.com/snehalgadge/Data-Structures-And-Algorithms/blob/main/Array/01_Contains_Duplicate.cpp'</a>Contains Duplicate</h3>
