@@ -6,7 +6,7 @@ int solve(int arr[], int n){
     int temp = arr[0];
     int j = 0;
 
-    for(int i=1; i<n; i++){
+    for(int i=1; i<=n-1; i++){
         arr[j] = arr[i];
         j++;
     }
