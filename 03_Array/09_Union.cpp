@@ -37,8 +37,7 @@ vector<int> FindIntersection(vector<int>A, vector<int>B){
     
   vector <int> ans;
   
-  // to maintain visited
-  vector <int> visited(B.size(), 0);  
+  // to maintain visited 
   int i = 0, j = 0;
   
   while(i<A.size() && j<B.size()){
