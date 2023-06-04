@@ -12,10 +12,10 @@ void zerosToEnd(vector<int> &nums,int n){
     }
 }
 int main() {
-      vector<int> nums ={ 1,2,0,1,0,4,0};
-       zerosToEnd(nums,7);
+      vector<int> nums ={0,1,0,3,12};
+       zerosToEnd(nums,5);
 
-       for(int i=0; i<7; i++){
+       for(int i=0; i<5; i++){
         cout<<nums[i]<<" ";
 
        }
